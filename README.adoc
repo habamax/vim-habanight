@@ -7,6 +7,8 @@
 
 
 * No fancy background, pure black is here.
+* Use GUI or terminal with `set termguicolors` for authentic colors. Looks OK
+  though in terminals with standard 256 color palette.
 * No syntax with bold or italic, except Title and Directory are bold.
 * No plugin syntax setup -- only built-ins are highlighted.
 * Simple.
@@ -43,6 +45,7 @@ Plug 'habamax/vim-habanight'
 " Initialize plugin system
 call plug#end()
 
+set termguicolors
 colorscheme habanight
 ------------------------------------------------------------------------------
 
@@ -86,5 +89,6 @@ add to your settings:
 
 [source,vim]
 ------------------------------------------------------------------------------
+set termguicolors
 colorscheme habanight
 ------------------------------------------------------------------------------
