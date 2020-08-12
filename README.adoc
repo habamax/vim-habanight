@@ -5,8 +5,11 @@
 :!source-linenums-option:
 :imagesdir: images
 
+
 * No fancy background, pure black is here.
-* No special syntax setup -- only built-ins are highlighted
+* No syntax with bold or italic.
+* No plugin syntax setup -- only built-ins are highlighted.
+
 
 == More than 1000 words
 
