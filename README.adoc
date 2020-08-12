@@ -1,9 +1,81 @@
 = habanight vim colorscheme
 
-* Black background
-* No special syntax setup -- only built-ins are used
+* No fancy background, pure black is here.
+* No special syntax setup -- only built-ins are highlighted
+
+== More than 1000 words
 
 image::https://user-images.githubusercontent.com/234774/90033227-e366f700-dcc7-11ea-85b1-3c494218102e.png[]
 
-
 image::https://user-images.githubusercontent.com/234774/90033329-07c2d380-dcc8-11ea-84d8-0089f35d177a.png[]
+
+image::https://user-images.githubusercontent.com/234774/90035130-2033ed80-dcca-11ea-9aa9-8f42a8322877.png[]
+
+image::https://user-images.githubusercontent.com/234774/90035230-40fc4300-dcca-11ea-9f72-e00b695d9b1f.png[]
+
+image::https://user-images.githubusercontent.com/234774/90035282-507b8c00-dcca-11ea-9803-f3cc72fe4219.png[]
+
+image::https://user-images.githubusercontent.com/234774/90035542-946e9100-dcca-11ea-9023-b4050f19e4b6.png[]
+
+== Installation
+
+Using plugin manager::
+    Follow your plugin manager documentation, for example, link:https://github.com/junegunn/vim-plug[vim-plug] does it this way:
++
+[source,vim]
+------------------------------------------------------------------------------
+" Specify a directory for plugins
+call plug#begin('~/.vim/plugged')
+
+Plug 'habamax/vim-habanight'
+
+" ... other plugins ...
+
+" Initialize plugin system
+call plug#end()
+
+colorscheme habanight
+------------------------------------------------------------------------------
+
+Manual with git::
+    Clone this repo to your vim/nvim packages directory:
++
+.Vim on Linux or OSX
+[source,sh]
+------------------------------------------------------------------------------
+git clone https://github.com/habamax/vim-habanight ~/.vim/pack/plugins/start/vim-habanight
+------------------------------------------------------------------------------
++
+.Neovim on Linux or OSX
+[source,sh]
+------------------------------------------------------------------------------
+git clone https://github.com/habamax/vim-habanight ~/.config/nvim/pack/plugins/start/vim-habanight
+------------------------------------------------------------------------------
++
+.Vim on Windows
+[source,sh]
+------------------------------------------------------------------------------
+git clone https://github.com/habamax/vim-habanight C:/Users/USERNAME/vimfiles/pack/plugins/start/vim-habanight <.>
+------------------------------------------------------------------------------
++
+.Neovim on Windows
+[source,sh]
+------------------------------------------------------------------------------
+git clone https://github.com/habamax/vim-habanight C:/Users/USERNAME/AppData/Local/nvim/pack/plugins/start/vim-habanight <.>
+------------------------------------------------------------------------------
+<.> Change `USERNAME` to your user name
+
+
+Manual::
+    * Download zip archive (available in menu:Code[Download ZIP])
+    * Extract `colors/habanight.vim` file into your vim/nvim settings directory
+        * `~/.vim/colors/habanight.vim` -- vim, linux, osx
+        * `~/vimfiles/colors/habanight.vim` -- vim, windows
+        * `~/.config/nvim/colors/habanight.vim` -- neovim
+
+add to your settings:
+
+[source,vim]
+------------------------------------------------------------------------------
+colorscheme habanight
+------------------------------------------------------------------------------
