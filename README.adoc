@@ -1,4 +1,9 @@
 = habanight vim colorscheme
+:experimental:
+:icons: font
+:autofit-option:
+:!source-linenums-option:
+:imagesdir: images
 
 * No fancy background, pure black is here.
 * No special syntax setup -- only built-ins are highlighted
