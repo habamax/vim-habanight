@@ -106,7 +106,7 @@ colorscheme habanight
 ------------------------------------------------------------------------------
 
 
-== It is nice but I want italic comments
+== Looks good but I want italic comments
 
 Add following to your settings file:
 
@@ -142,4 +142,13 @@ augroup END
 set termguicolors
 colorscheme habanight
 
+------------------------------------------------------------------------------
+
+== What about terminals with semi-transparent backgrounds?
+
+Add this:
+
+[source,vim]
+------------------------------------------------------------------------------
+let g:habanight_transp_bg = v:true
 ------------------------------------------------------------------------------
