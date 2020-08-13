@@ -5,7 +5,7 @@
 :!source-linenums-option:
 :imagesdir: images
 
-.`#vim` freenode irc name origin
+.`#vim freenode irc` name origin:
 
       <habamax> I am bad with names
     <novasenco> I got a feeling
