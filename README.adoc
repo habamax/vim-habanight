@@ -1,10 +1,16 @@
-= habanight vim colorscheme
+= HABANIGHT: vim colorscheme
 :experimental:
 :icons: font
 :autofit-option:
 :!source-linenums-option:
 :imagesdir: images
 
+[quote, #vim freenode irc name origin]
+______________________________________________________________________________
+    <novasenco> I got a feeling
+    <novasenco> That tonight's gonna be a Haba night.
+    <novasenco> That tonight's gonna be a Haba night. Habanight Habanight.
+______________________________________________________________________________
 
 * No fancy background, pure black is here.
 * Use GUI or terminal with `set termguicolors` for authentic colors. Looks OK
