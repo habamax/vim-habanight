@@ -81,9 +81,10 @@ git clone https://github.com/habamax/vim-habanight C:/Users/USERNAME/AppData/Loc
 Manual::
     * Download zip archive (available in menu:Code[Download ZIP])
     * Extract `colors/habanight.vim` file into your vim/nvim settings directory
-        ** `~/.vim/colors/habanight.vim` -- vim, linux, osx
-        ** `~/vimfiles/colors/habanight.vim` -- vim, windows
-        ** `~/.config/nvim/colors/habanight.vim` -- neovim
+        ** `~/.vim/colors/habanight.vim` -- vim (linux, osx)
+        ** `~/vimfiles/colors/habanight.vim` -- vim (windows)
+        ** `~/.config/nvim/colors/habanight.vim` -- neovim (linux, osx)
+        ** `~/AppData/Local/nvim/colors/habanight.vim` -- neovim (windows)
 
 add to your settings:
 
