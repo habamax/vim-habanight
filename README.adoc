@@ -5,12 +5,17 @@
 :!source-linenums-option:
 :imagesdir: images
 
-[quote, #vim freenode irc name origin]
-______________________________________________________________________________
+.`#vim` freenode irc name origin
+
+      <habamax> I am bad with names
     <novasenco> I got a feeling
     <novasenco> That tonight's gonna be a Haba night.
     <novasenco> That tonight's gonna be a Haba night. Habanight Habanight.
-______________________________________________________________________________
+      <habamax> lol
+      <habamax> should I call it habanight?
+    <novasenco> habanight is not a bad name.
+              * habamax hold my beer
+
 
 * No fancy background, pure black is here.
 * Use GUI or terminal with `set termguicolors` for authentic colors. Looks OK
