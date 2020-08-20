@@ -29,12 +29,17 @@
 
 == More than 1000 words
 
-image::https://user-images.githubusercontent.com/234774/90750960-32231b00-e2de-11ea-9f88-948bffad95b5.png[]
-image::https://user-images.githubusercontent.com/234774/90751061-4f57e980-e2de-11ea-91a3-f6aee5d25d91.png[]
-image::https://user-images.githubusercontent.com/234774/90751595-048aa180-e2df-11ea-860e-b3efc9ea3a11.png[]
-image::https://user-images.githubusercontent.com/234774/90751674-1a986200-e2df-11ea-9565-7e008c47bd16.png[]
-image::https://user-images.githubusercontent.com/234774/90751824-4582b600-e2df-11ea-9b9b-546eb9762db7.png[]
-image::https://user-images.githubusercontent.com/234774/90752129-b033f180-e2df-11ea-96e3-20662262e237.png[]
+image::https://user-images.githubusercontent.com/234774/90033227-e366f700-dcc7-11ea-85b1-3c494218102e.png[]
+
+image::https://user-images.githubusercontent.com/234774/90033329-07c2d380-dcc8-11ea-84d8-0089f35d177a.png[]
+
+image::https://user-images.githubusercontent.com/234774/90035130-2033ed80-dcca-11ea-9aa9-8f42a8322877.png[]
+
+image::https://user-images.githubusercontent.com/234774/90035230-40fc4300-dcca-11ea-9f72-e00b695d9b1f.png[]
+
+image::https://user-images.githubusercontent.com/234774/90035282-507b8c00-dcca-11ea-9803-f3cc72fe4219.png[]
+
+image::https://user-images.githubusercontent.com/234774/90035542-946e9100-dcca-11ea-9023-b4050f19e4b6.png[]
 
 
 == Installation
@@ -151,5 +156,5 @@ Add this:
 let g:habanight_transp_bg = v:true
 ------------------------------------------------------------------------------
 
-image::https://user-images.githubusercontent.com/234774/90752506-26385880-e2e0-11ea-9817-8a494e2e36e7.png[]
+image::https://user-images.githubusercontent.com/234774/90171332-023dba00-ddaa-11ea-8080-ca1338b2eb08.png[]
 
