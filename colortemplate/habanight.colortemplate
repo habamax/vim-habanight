@@ -10,7 +10,7 @@ Variant:    gui 256
 Background: dark
 
 # Color: grey   #6d7079 242
-Color: grey   #767676 243
+Color: grey   #808080 244
 Color: red    #d77575 167
 Color: green  #7ea06c 108
 Color: yellow #d7b082 180
