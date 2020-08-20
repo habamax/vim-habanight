@@ -23,8 +23,7 @@ Color: brown  #a16946 130
 
 Color: fg0    #c7c7c7 251
 Color: bg0    #000000 16
-# Color: bg1    #333b4a 236
-Color: bg1    #303030 236
+Color: bg1    #3a3a3a 237
 # Color: folded #181a1f 234
 Color: folded #1c1c1c 234
 Color: visual #394e71 24
