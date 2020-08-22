@@ -147,6 +147,26 @@ colorscheme habanight
 
 ------------------------------------------------------------------------------
 
+== And VertSplit without background colors
+
+[source,vim]
+------------------------------------------------------------------------------
+
+func! s:habanight_setup() abort
+    hi Comment gui=italic cterm=italic
+    hi Statement gui=bold cterm=bold
+    hi VertSplit guibg=NONE ctermbg=NONE
+endfunc
+
+augroup colorscheme_change | au!
+    au ColorScheme habanight call s:habanight_setup()
+augroup END
+
+set termguicolors
+colorscheme habanight
+
+------------------------------------------------------------------------------
+
 == What about terminals with semi-transparent backgrounds?
 
 Add this:
