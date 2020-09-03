@@ -47,7 +47,7 @@ SignColumn       none   none
 Underlined       blue   none underline
 
 Error            error  bg0
-ErrorMsg         error    bg0
+ErrorMsg         error  bg0
 WarningMsg       yellow bg0
 MoreMsg          fg0    bg0
 ModeMsg          fg0    bg0
