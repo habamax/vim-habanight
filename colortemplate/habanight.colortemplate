@@ -23,7 +23,7 @@ Color: fg0        #c7c7c7 251
 Color: bg0        #000000 16
 Color: bg1        #333b4a 236
 Color: folded     #181a1f 234
-Color: visual     #394e71 24
+Color: visual     #414956 238
 Color: error      #ea7a80 174
 Color: diffadd    #294929 22
 Color: diffchange #4f4719 58
