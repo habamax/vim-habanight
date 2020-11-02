@@ -24,7 +24,7 @@ Color: bg0        #000000 16
 Color: bg1        #333b4a 236
 Color: folded     #181a1f 234
 Color: visual     #414956 238
-Color: error      #ea7a80 174
+Color: error      #da3050 197
 Color: diffadd    #294929 22
 Color: difftext   #4f4719 58
 Color: diffdelete #492929 52
@@ -77,8 +77,8 @@ SignColumn       none       none
 
 Underlined       identifier none   underline
 
-Error            error      bg0
-ErrorMsg         error      bg0
+Error            fg0        error
+ErrorMsg         fg0        error
 WarningMsg       preproc    bg0
 MoreMsg          fg0        bg0
 ModeMsg          fg0        bg0
