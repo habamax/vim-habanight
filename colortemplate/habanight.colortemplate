@@ -115,31 +115,31 @@ DiffChange       none       none
 DiffText         background color03
 DiffDelete       color08    none
 
-SpellBad         color01     none   t=underline g=undercurl s=color01
-SpellCap         color09     none   t=underline g=undercurl s=color09
-SpellLocal       color03     none   t=underline g=undercurl s=color03
-SpellRare        color05     none   t=underline g=undercurl s=color05
+SpellBad         color01    none   t=underline g=undercurl s=color01
+SpellCap         color09    none   t=underline g=undercurl s=color09
+SpellLocal       color03    none   t=underline g=undercurl s=color03
+SpellRare        color05    none   t=underline g=undercurl s=color05
 
 
 ;;; syntax
 
-Identifier       color04     none
-Function         color12     none
-Statement        color05     none
-Operator         color13     none
-Constant         color03     none
-String           color10     none
-PreProc          color11     none
-Special          color14     none
-Tag              color11     none
-Delimiter        color09     none
-Type             color01     none
-Directory        color04     none bold
-Comment          color07     none
-Conceal          color07     none
-Ignore           none        none
+Identifier       color04    none
+Function         color12    none
+Statement        color05    none
+Operator         color13    none
+Constant         color03    none
+String           color10    none
+PreProc          color11    none
+Special          color14    none
+Tag              color11    none
+Delimiter        color09    none
+Type             color01    none
+Directory        color04    none bold
+Comment          color07    none
+Conceal          color07    none
+Ignore           none       none
 
-Title            color01     none bold
+Title            color01    none bold
 
 
 
