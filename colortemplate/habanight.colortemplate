@@ -39,7 +39,7 @@ Color: color15    #FFFFFF 231
 
 ;;; Additional colors
 Color: color16    #262626 235
-Color: color17    #414956 238
+Color: color17    #414956 239
 
 
 ;;; Term colors
