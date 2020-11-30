@@ -39,7 +39,6 @@ Color: color15    #FFFFFF 231
 
 ;;; Additional colors
 Color: color16    #262626 235
-Color: color17    #414956 239
 
 
 ;;; Term colors
@@ -82,8 +81,8 @@ NonText          color08    none
 SpecialKey       color08    none
 
 Folded           color07    color00
-Visual           foreground color17
-VisualNOS        foreground color17
+Visual           background color12
+VisualNOS        background color12
 LineNr           color07    none
 FoldColumn       color07    none
 CursorLine       none       color16
