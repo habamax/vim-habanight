@@ -10,7 +10,7 @@ Variant:    gui 256
 Background: dark
 
 ;;; Color palette
-Color: foreground #c7c7c7 251
+Color: foreground #bcbcbc 250
 Color: background #000000 16
 
 Color: color00    #1C1C1C 234
