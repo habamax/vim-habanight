@@ -60,9 +60,9 @@ Normal           foreground background
 #endif
 
 EndOfBuffer      color08    none
-Statusline       background color06
+Statusline       background color04
 StatuslineNC     foreground color08
-StatuslineTerm   foreground color06
+StatuslineTerm   foreground color04
 StatuslineTermNC foreground color08
 VertSplit        color08    color08
 
@@ -73,10 +73,10 @@ PmenuThumb       none       color07
 
 TabLine          foreground color08
 TabLineFill      none       color08
-TabLineSel       background color06
+TabLineSel       background color04
 
 ToolbarLine      none       color00
-ToolbarButton    color00    color14
+ToolbarButton    color00    color12
 
 NonText          color08    none
 SpecialKey       color08    none
