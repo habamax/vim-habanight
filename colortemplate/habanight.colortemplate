@@ -134,12 +134,12 @@ Special          color14    none
 Tag              color11    none
 Delimiter        color09    none
 Type             color01    none
-Directory        color04    none bold
+Directory        color04    none
 Comment          color07    none
 Conceal          color07    none
 Ignore           none       none
 
-Title            color01    none bold
+Title            color15    none
 
 
 

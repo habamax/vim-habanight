@@ -21,7 +21,7 @@
 * No fancy background, pure black is here.
 * Use GUI or terminal with `set termguicolors` for authentic colors. Looks OK
   though in terminals with standard 256 color palette.
-* No syntax with bold or italic, except Title and Directory are bold.
+* No syntax with bold or italic.
 * Simple.
 * Or do you want white background? Check link:https://github.com/habamax/vim-polar[polar].
 * Like dark gruvbox colors? Check link:https://github.com/habamax/vim-gruvbit[gruvbit].
@@ -29,17 +29,13 @@
 
 == More than 1000 words
 
-image::https://user-images.githubusercontent.com/234774/90033227-e366f700-dcc7-11ea-85b1-3c494218102e.png[]
+image::https://user-images.githubusercontent.com/234774/100902443-efc0cb00-34d5-11eb-8787-0e038e24c6a7.png[]
 
-image::https://user-images.githubusercontent.com/234774/90033329-07c2d380-dcc8-11ea-84d8-0089f35d177a.png[]
+image::https://user-images.githubusercontent.com/234774/100902230-c142f000-34d5-11eb-9ea1-e51857a5ae13.png[]
 
-image::https://user-images.githubusercontent.com/234774/90035130-2033ed80-dcca-11ea-9aa9-8f42a8322877.png[]
+image::https://user-images.githubusercontent.com/234774/100902084-9bb5e680-34d5-11eb-8403-2d4ae21b5a22.png[]
 
-image::https://user-images.githubusercontent.com/234774/90035230-40fc4300-dcca-11ea-9f72-e00b695d9b1f.png[]
-
-image::https://user-images.githubusercontent.com/234774/90035282-507b8c00-dcca-11ea-9803-f3cc72fe4219.png[]
-
-image::https://user-images.githubusercontent.com/234774/90035542-946e9100-dcca-11ea-9023-b4050f19e4b6.png[]
+image::https://user-images.githubusercontent.com/234774/100902002-83de6280-34d5-11eb-806b-5018258a5675.png[]
 
 
 == Installation
@@ -176,5 +172,5 @@ Add this:
 let g:habanight_transp_bg = v:true
 ------------------------------------------------------------------------------
 
-image::https://user-images.githubusercontent.com/234774/90171332-023dba00-ddaa-11ea-8080-ca1338b2eb08.png[]
+image::https://user-images.githubusercontent.com/234774/100901726-3661f580-34d5-11eb-9064-8512dedff885.png[]
 
