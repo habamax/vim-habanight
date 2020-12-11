@@ -76,7 +76,7 @@ TabLineFill      none       color08
 TabLineSel       background color04
 
 ToolbarLine      none       color00
-ToolbarButton    color00    color12
+ToolbarButton    color00    color06
 
 NonText          color08    none
 SpecialKey       color08    none
