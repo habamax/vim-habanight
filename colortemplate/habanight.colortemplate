@@ -62,7 +62,7 @@ Normal           foreground background
 EndOfBuffer      color08    none
 Statusline       background color04
 StatuslineNC     foreground color08
-StatuslineTerm   foreground color04
+StatuslineTerm   background color04
 StatuslineTermNC foreground color08
 VertSplit        color08    color08
 
